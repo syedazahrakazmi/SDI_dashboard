@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>2022-01-07</CreaDate>
+		<CreaTime>13:03:55.65</CreaTime>
+		<ModDate>2022-01-07</ModDate>
+		<ModTime>13:04:07.16</ModTime>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification GML3.2</ArcGISstyle>
+		<ArcGISProfile>ISO19139</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+	</Esri>
+	<mdFileID>40386f9926564700b1e8c7ea6256f6fe</mdFileID>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>2022-01-07</mdDateSt>
+	<mdTimeSt>13:03:55.65</mdTimeSt>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Land Salzburg- Fully vaccinated population</resTitle>
+		</idCitation>
+		<idPurp>the dash board is about the covid vaccinations in Land salzburg</idPurp>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+</metadata>
