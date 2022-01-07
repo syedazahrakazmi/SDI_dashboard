@@ -7,5 +7,4 @@ Data sources
 https://www.data.gv.at/?
 https://www.salzburg.gv.at/api5/datalinq/report/kribe@oeffentlichuebersichtimpf2@oeffentlichuebersichtimpf2?
 
-wfs link:
-features access link:
+
