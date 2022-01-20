@@ -1,5 +1,4 @@
 
-
 Description
 
 The dashboard is about the upto date fully immunised population in Land Salzburg.
