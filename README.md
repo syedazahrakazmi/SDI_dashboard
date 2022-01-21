@@ -10,4 +10,6 @@ https://www.salzburg.gv.at/api5/datalinq/report/kribe@oeffentlichuebersichtimpf2
 
 Meta data link : https://zgis185.geo.sbg.ac.at/geonetwork/srv/eng/catalog.search#/metadata/2bd84faf-19f5-455f-9817-22b2ce1f7d4b
 
+WMS service: http://localhost:8080/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?65&filter=false
+
 
